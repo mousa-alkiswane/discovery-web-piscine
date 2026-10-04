@@ -1,0 +1,5 @@
+commit a52d6a4112ecbbf3bbe92f4c76aed9bd100b9f39
+Author: mousa-alkiswane <alkiswanemusa3@yahoo.com>
+Date:   Sun Oct 4 11:30:52 2026 +0300
+
+    Add hello.txt
