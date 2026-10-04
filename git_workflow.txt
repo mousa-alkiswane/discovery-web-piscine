@@ -1,0 +1,4 @@
+Edit: Update README.md
+Add: git add README.md
+Commit: git commit -m "Add README documentation"
+Push: git push
